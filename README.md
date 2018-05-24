@@ -1,9 +1,9 @@
 Introduction
 ===============
 
-This folder contains code to illustrate results in: 
+This folder contains code to reproduce the results in: 
 
-**``Denoising with deep priors''**, by Reinhard Heckel and Wen Huang and Paul Hand and Vladislav Voroninski. 
+**``Deep Denoising: Rate-Optimal Recovery of Structured Signals with a Deep Prior''**, by R. Heckel, W. Huang, P. Hand, and V. Voroninski.
 
 Licence
 ==========
